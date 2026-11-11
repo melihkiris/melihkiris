@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**melihkiris/melihkiris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Melih Kiriş 👋
 
-Here are some ideas to get you started:
+  First-year Information Systems and Technologies student at Bilkent University.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  Interested in software development, cybersecurity, and computer networks.
+
+  Currently developing my skills in programming, Linux, networking, and information security.
+
+  My goal is to become a cybersecurity engineer and gain international experience in the technology industry.
+
+## Technologies and Languages
+
+- C / C++
+- Java
+- Python (currently developing my skills)
+
+## Current Focus
+
+- Learning computer networks and Linux
+- Exploring ethical hacking and penetration testing
+- Building practical programming projects
+- Strengthening my computer science foundations
+
+## Connect
+
+- GitHub: [@melihkiris](https://github.com/melihkiris)
