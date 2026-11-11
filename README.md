@@ -1,4 +1,3 @@
-
 # Hi, I'm Melih Kiriş 👋
 
 🎓 First-year Information Systems and Technologies student at Bilkent University.
@@ -11,17 +10,26 @@
 
 ## Technologies and Languages
 
-- C / C++
-- Java
-- Python
+* C / C++
+* Java
+* Python
 
 ## Current Focus
 
-- Learning computer networks and Linux
-- Exploring ethical hacking and penetration testing
-- Building practical programming projects
-- Strengthening my computer science foundations
+* Learning computer networks and Linux
+* Exploring ethical hacking and penetration testing
+* Building practical programming projects
+* Strengthening my computer science foundations
 
 ## Connect
 
-- GitHub: [@melihkiris](https://github.com/melihkiris)
+* GitHub: [@melihkiris](https://github.com/melihkiris)
+
+
+
+\## What I'm Working On
+
+
+
+I'm currently strengthening my programming fundamentals and exploring cybersecurity through hands-on learning.
+
