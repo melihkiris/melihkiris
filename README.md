@@ -13,7 +13,7 @@
 
 - C / C++
 - Java
-- Python (currently developing my skills)
+- Python
 
 ## Current Focus
 
