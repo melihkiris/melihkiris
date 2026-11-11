@@ -1,13 +1,13 @@
 
 # Hi, I'm Melih Kiriş 👋
 
-  First-year Information Systems and Technologies student at Bilkent University.
+🎓 First-year Information Systems and Technologies student at Bilkent University.
 
-  Interested in software development, cybersecurity, and computer networks.
+💻 Interested in software development, cybersecurity, and computer networks.
 
-  Currently developing my skills in programming, Linux, networking, and information security.
+🌱 Currently developing my skills in programming, Linux, networking, and information security.
 
-  My goal is to become a cybersecurity engineer and gain international experience in the technology industry.
+🎯 My goal is to become a cybersecurity engineer and gain international experience in the technology industry.
 
 ## Technologies and Languages
 
